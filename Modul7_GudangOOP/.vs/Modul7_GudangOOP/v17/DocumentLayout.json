@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\services\\pencetakbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:services\\pencetakbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\interfaces\\iperiksakadaluarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:interfaces\\iperiksakadaluarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\models\\barangmakanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:models\\barangmakanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\models\\barangkimia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:models\\barangkimia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\models\\barangelektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:models\\barangelektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\modul7_gudangoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:modul7_gudangoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\factories\\barangfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:factories\\barangfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\models\\itemgudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:models\\itemgudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\models\\stoknegatifexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:models\\stoknegatifexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarangMakanan.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\BarangMakanan.cs",
+              "RelativeDocumentMoniker": "Models\\BarangMakanan.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\BarangMakanan.cs",
+              "RelativeToolTip": "Models\\BarangMakanan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:09:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BarangKimia.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\BarangKimia.cs",
+              "RelativeDocumentMoniker": "Models\\BarangKimia.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\BarangKimia.cs",
+              "RelativeToolTip": "Models\\BarangKimia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:09:16.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PencetakBarang.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Services\\PencetakBarang.cs",
+              "RelativeDocumentMoniker": "Services\\PencetakBarang.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Services\\PencetakBarang.cs",
+              "RelativeToolTip": "Services\\PencetakBarang.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:19:27.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:08:43.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputBarang.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Services\\InputBarang.cs",
+              "RelativeDocumentMoniker": "Services\\InputBarang.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Services\\InputBarang.cs",
+              "RelativeToolTip": "Services\\InputBarang.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:10:23.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBarangPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBarangPrinter.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "RelativeToolTip": "Interfaces\\IBarangPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:37:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\Barang.cs",
+              "RelativeDocumentMoniker": "Models\\Barang.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\Barang.cs",
+              "RelativeToolTip": "Models\\Barang.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:09:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPeriksaKadaluarsa.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IPeriksaKadaluarsa.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPeriksaKadaluarsa.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IPeriksaKadaluarsa.cs",
+              "RelativeToolTip": "Interfaces\\IPeriksaKadaluarsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:09:04.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Modul7_GudangOOP",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj",
+              "RelativeDocumentMoniker": "Modul7_GudangOOP.csproj",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Modul7_GudangOOP.csproj",
+              "RelativeToolTip": "Modul7_GudangOOP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T02:09:58.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarangElektronik.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\BarangElektronik.cs",
+              "RelativeDocumentMoniker": "Models\\BarangElektronik.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\BarangElektronik.cs",
+              "RelativeToolTip": "Models\\BarangElektronik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:09:20.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "Helpers\\InputHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:29:11.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BarangFactory.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Factories\\BarangFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\BarangFactory.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Factories\\BarangFactory.cs",
+              "RelativeToolTip": "Factories\\BarangFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:22:09.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemGudang.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\ItemGudang.cs",
+              "RelativeDocumentMoniker": "Models\\ItemGudang.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\ItemGudang.cs",
+              "RelativeToolTip": "Models\\ItemGudang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:08:57.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StokNegatifException.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\StokNegatifException.cs",
+              "RelativeDocumentMoniker": "Models\\StokNegatifException.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\StokNegatifException.cs",
+              "RelativeToolTip": "Models\\StokNegatifException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:08:51.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

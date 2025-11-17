@@ -1,0 +1,15 @@
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\bin\Debug\net8.0\Modul7_GudangOOP.exe
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\bin\Debug\net8.0\Modul7_GudangOOP.deps.json
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\bin\Debug\net8.0\Modul7_GudangOOP.runtimeconfig.json
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\bin\Debug\net8.0\Modul7_GudangOOP.dll
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\bin\Debug\net8.0\Modul7_GudangOOP.pdb
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.AssemblyInfoInputs.cache
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.AssemblyInfo.cs
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.csproj.CoreCompileInputs.cache
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.sourcelink.json
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.dll
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\refint\Modul7_GudangOOP.dll
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.pdb
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\Modul7_GudangOOP.genruntimeconfig.cache
+C:\Users\asatr\Documents\Nugas\PBO\Modul7_GudangOOP\obj\Debug\net8.0\ref\Modul7_GudangOOP.dll

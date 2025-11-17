@@ -1,0 +1,3 @@
+Kode	Nama	Stok
+BRG001	Pensil	50
+ELK001	Printer	50
