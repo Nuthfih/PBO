@@ -1,0 +1,28 @@
+﻿using System.IO;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
+
+namespace Modul8_GudangWeb.Models
+{
+    public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<ApplicationDbContext>
+    {
+        public ApplicationDbContext CreateDbContext(string[] args)
+        {
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddEnvironmentVariables();
+
+            var config = builder.Build();
+            var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
+
+            var connectionString = config.GetConnectionString("DefaultConnection")
+                ?? "Server=(localdb)\\mssqllocaldb;Database=Modul8_GudangWeb;Trusted_Connection=True;";
+
+            optionsBuilder.UseSqlServer(connectionString);
+
+            return new ApplicationDbContext(optionsBuilder.Options);
+        }
+    }
+}

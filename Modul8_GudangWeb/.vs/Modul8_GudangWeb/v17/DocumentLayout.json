@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\views\\barang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:views\\barang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\views\\barang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:views\\barang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\views\\barang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:views\\barang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\models\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:models\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\controllers\\barangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +25,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\views\\barang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:views\\barang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul8_gudangweb\\migrations\\20251215024503_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52EC940-A63D-4087-ADA0-CF1C3120450D}|Modul8_GudangWeb.csproj|solutionrelative:migrations\\20251215024503_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,43 +63,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABnAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Barang\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Barang\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-10T02:10:42.939Z",
+              "WhenOpened": "2025-12-15T02:59:05.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Barang\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Barang\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T02:58:57.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Barang\\Index.cshtml",
               "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Index.cshtml",
               "RelativeToolTip": "Views\\Barang\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAMwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-08T02:43:08.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BarangController.cs",
-              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Controllers\\BarangController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BarangController.cs",
-              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Controllers\\BarangController.cs",
-              "RelativeToolTip": "Controllers\\BarangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwCgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T02:41:40.316Z"
+              "WhenOpened": "2025-12-15T02:13:04.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -76,6 +120,90 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-08T02:37:46.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:10:42.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarangController.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Controllers\\BarangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BarangController.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Controllers\\BarangController.cs",
+              "RelativeToolTip": "Controllers\\BarangController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T02:41:40.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Models\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Models\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Models\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Models\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T02:42:59.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Barang\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Views\\Barang\\Create.cshtml",
+              "RelativeToolTip": "Views\\Barang\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T02:50:12.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251215024503_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Migrations\\20251215024503_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251215024503_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Migrations\\20251215024503_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251215024503_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T02:45:03.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T02:05:07.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Models\\Barang.cs",
+              "RelativeDocumentMoniker": "Models\\Barang.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul8_GudangWeb\\Models\\Barang.cs",
+              "RelativeToolTip": "Models\\Barang.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T02:01:26.164Z"
             },
             {
               "$type": "Bookmark",

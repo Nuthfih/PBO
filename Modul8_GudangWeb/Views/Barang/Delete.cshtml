@@ -1,0 +1,30 @@
+@model Modul8_GudangWeb.Models.Barang
+
+@{
+    ViewData["Title"] = "Delete Barang";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="mb-3">
+    <h4>Are you sure you want to delete this?</h4>
+    <dl class="row">
+        <dt class="col-sm-2">Kode</dt>
+        <dd class="col-sm-10">@Model.KodeBarang</dd>
+
+        <dt class="col-sm-2">Nama</dt>
+        <dd class="col-sm-10">@Model.NamaBarang</dd>
+
+        <dt class="col-sm-2">Jumlah</dt>
+        <dd class="col-sm-10">@Model.JumlahStok</dd>
+
+        <dt class="col-sm-2">Kategori</dt>
+        <dd class="col-sm-10">@Model.Kategori</dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

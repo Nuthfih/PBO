@@ -1,0 +1,38 @@
+@model Modul8_GudangWeb.Models.Barang
+
+@{
+    ViewData["Title"] = "Edit Barang";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="KodeBarang" class="form-label"></label>
+        <input asp-for="KodeBarang" class="form-control" />
+        <span asp-validation-for="KodeBarang" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="NamaBarang" class="form-label"></label>
+        <input asp-for="NamaBarang" class="form-control" />
+        <span asp-validation-for="NamaBarang" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="JumlahStok" class="form-label"></label>
+        <input asp-for="JumlahStok" class="form-control" />
+        <span asp-validation-for="JumlahStok" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Kategori" class="form-label"></label>
+        <input asp-for="Kategori" class="form-control" />
+        <span asp-validation-for="Kategori" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

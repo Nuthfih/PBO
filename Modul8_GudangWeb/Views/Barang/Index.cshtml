@@ -1,33 +1,40 @@
-﻿@{
-	ViewData["Title"] = "Daftar Barang";
+﻿@model IEnumerable<Modul8_GudangWeb.Models.Barang>
+
+@{
+    ViewData["Title"] = "Barang";
 }
 
-<h2>@ViewData["Title"]</h2>
+<div class="d-flex justify-content-between mb-3">
+    <h2>@ViewData["Title"]</h2>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</div>
 
-<p>Ini adalah halaman awal untuk modul manajemen barang gudang.</p>
-
-
-<table class="table table-bordered">
-    <thead class="table-dark">
+<table class="table table-striped">
+    <thead>
         <tr>
             <th>Kode</th>
-            <th>Nama Barang</th>
-            <th>Stok</th>
+            <th>Nama</th>
+            <th>Jumlah</th>
             <th>Kategori</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>BRG001</td>
-            <td>Box Kardus</td>
-            <td>120</td>
-            <td>Kemasan</td>
-        </tr>
-        <tr>
-            <td>BRG002</td>
-            <td>Scanner Barcode</td>
-            <td>20</td>
-            <td>Elektronik</td>
-        </tr>
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.KodeBarang</td>
+                    <td>@item.NamaBarang</td>
+                    <td>@item.JumlahStok</td>
+                    <td>@item.Kategori</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-secondary">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
     </tbody>
 </table>

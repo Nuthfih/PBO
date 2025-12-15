@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modul8_GudangWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda8996f1de9c3ce8439c3a15f3ca7e2a50a855a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72cf24267e24a3c31e8e94f86aa02596e7a0ec93")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modul8_GudangWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modul8_GudangWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
