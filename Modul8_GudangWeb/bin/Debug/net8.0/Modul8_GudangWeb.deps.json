@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modul8_GudangWeb/1.0.0": {
+        "runtime": {
+          "Modul8_GudangWeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul8_GudangWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

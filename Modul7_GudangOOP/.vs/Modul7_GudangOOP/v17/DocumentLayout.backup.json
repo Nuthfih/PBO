@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\services\\pencetakbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:services\\pencetakbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|solutionrelative:interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF77DF6D-4FD7-49C4-A067-15A2C1917AA7}|Modul7_GudangOOP.csproj|c:\\users\\asatr\\documents\\nugas\\pbo\\modul7_gudangoop\\interfaces\\iperiksakadaluarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +69,6 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BarangMakanan.cs",
@@ -100,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PencetakBarang.cs",
               "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Services\\PencetakBarang.cs",
               "RelativeDocumentMoniker": "Services\\PencetakBarang.cs",
@@ -113,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -126,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "InputBarang.cs",
               "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Services\\InputBarang.cs",
               "RelativeDocumentMoniker": "Services\\InputBarang.cs",
@@ -140,6 +136,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IBarangPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBarangPrinter.cs",
+              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "RelativeToolTip": "Interfaces\\IBarangPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:37:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Barang.cs",
               "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Models\\Barang.cs",
               "RelativeDocumentMoniker": "Models\\Barang.cs",
@@ -161,19 +174,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T02:09:04.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBarangPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IBarangPrinter.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IBarangPrinter.cs",
-              "ToolTip": "C:\\Users\\asatr\\Documents\\Nugas\\PBO\\Modul7_GudangOOP\\Interfaces\\IBarangPrinter.cs",
-              "RelativeToolTip": "Interfaces\\IBarangPrinter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T02:37:11.622Z",
               "EditorCaption": ""
             },
             {
